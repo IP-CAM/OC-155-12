@@ -4,7 +4,7 @@
 <!--
 Единственное что я здесь изменил по отношению к оригинальному файлу,
 так это то, что произвел замену в имени класса с «ControllerModuleInformation»
-на «ControllerModuleMyHelloWorld» и все упоминания слова «information» заменил
+на «ControllerModulemyHelloWorld» и все упоминания слова «information» заменил
 на «myHelloWorld».
 
 Каков ваш контроллер, будет зависеть от предоставляемого функционала настроек,
@@ -18,7 +18,7 @@
 		private $error = array();
 
 		public function index() {
-			$this->load->language('module/myHelloWorld');
+			$this->load->language('module/my_hello_world');
 			$this->document->setTitle($this->language->get('heading_title'));
 			$this->load->model('setting/setting');
 
@@ -71,7 +71,7 @@
 
 			$this->data['breadcrumbs'][] = array(
 				'text'      => $this->language->get('heading_title'),
-				'href'      => $this->url->link('module/myHelloWorld', 'token=' . $this->session->data['token'], 'SSL'),
+				'href'      => $this->url->link('module/my_hello_world', 'token=' . $this->session->data['token'], 'SSL'),
 				'separator' => ' :: '
 			);
 
