@@ -4,8 +4,12 @@
 	 * User: User
 	 * Date: 04.04.2018
 	 * Time: 9:59
-
-	 *http://localhost/Opencart/index.php?route=test2/myhelloworld
+	 *
+	 * источник:
+	 * https://code.tutsplus.com/tutorials/from-beginner-to-advanced-in-opencart-understanding-mvc--cms-21627
+	 *
+	 * link controller
+	 * http://localhost/Opencart/index.php?route=test2/myhelloworld
 	 */
 
 	class ControllerTest2MyHelloWorld extends Controller
