@@ -8,7 +8,7 @@
 	 *http://localhost/Opencart/index.php?route=test/myhelloworld
 	 */
 
-	class ControllerTestMyhelloworld extends Controller
+	class ControllerTestMyHelloWorld extends Controller
 	{
 		public function index()
 		{
