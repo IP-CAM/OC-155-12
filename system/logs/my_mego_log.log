@@ -49,3 +49,74 @@
 2018-04-02 23:06:36 - PHP Notice:  Error: Could not load template C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc/admin/view/template/module/myHelloWorld.tpl! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 70
 2018-04-03 20:09:25 - PHP Notice:  Error: Could not load template C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc/admin/view/template/module/myHelloWorld.tpl! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 70
 2018-04-03 20:12:46 - PHP Notice:  Error: Could not load template C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc/admin/view/template/module/myHelloWorld.tpl! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 70
+2018-04-05 9:02:46 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-05 16:11:12 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-05 16:11:54 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-06 17:20:29 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-07 14:06:21 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-07 14:12:20 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-08 17:09:28 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-08 21:26:06 - PHP Notice:  Error: Could not load controller module/helloworld! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\engine\controller.php on line 47
+2018-04-08 21:33:31 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 21:34:53 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 21:55:57 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 21:57:52 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 21:57:52 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 21:57:52 - PHP Notice:  Undefined variable: test_out in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 9
+2018-04-08 21:58:43 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 21:58:43 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 21:58:43 - PHP Notice:  Undefined variable: test_out in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 9
+2018-04-08 21:58:45 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 21:58:45 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 21:58:45 - PHP Notice:  Undefined variable: test_out in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 9
+2018-04-08 22:00:01 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:00:01 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 22:00:01 - PHP Notice:  Undefined variable: test_out in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 9
+2018-04-08 22:00:02 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:00:02 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 22:00:02 - PHP Notice:  Undefined variable: test_out in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 9
+2018-04-08 22:01:52 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:02:02 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:03:01 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:03:02 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:03:03 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:04:39 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:07:15 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:07:16 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:09:21 - PHP Notice:  Undefined variable: heading_title in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 2
+2018-04-08 22:12:13 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:12:32 - PHP Notice:  Error: Could not load language helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:13:59 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:14:03 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:14:24 - PHP Notice:  Error: Could not load language helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:19:14 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:21:32 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:21:33 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:21:34 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:10 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:11 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:11 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:11 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:12 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:12 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:12 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:12 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:13 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:13 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:13 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:13 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-08 22:22:14 - PHP Notice:  Error: Could not load language module/helloworld.php! in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\library\language.php on line 39
+2018-04-09 4:38:41 - PHP Notice:  Error: Table 'oc_15512.oc_hello_world_1' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_hello_world_1 in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\database\mysqliz.php on line 53
+2018-04-09 4:48:53 - PHP Notice:  Undefined variable: temp in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 18
+2018-04-09 4:48:53 - PHP Notice:  Undefined variable: temp_info in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 24
+2018-04-09 4:48:53 - PHP Notice:  Undefined variable: hello_world in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\catalog\view\theme\default\template\module\helloworld.tpl on line 30
+2018-04-09 5:25:33 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''name' , 'image', 'link', 'text')
+			VALUES('testName', 'testImage', 'testLink'' at line 1<br />Error No: 1064<br />INSERT INTO oc_hello_world_1 ('name' , 'image', 'link', 'text')
+			VALUES('testName', 'testImage', 'testLink', 'testText') in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\database\mysqliz.php on line 53
+2018-04-09 5:41:22 - PHP Notice:  Error: Column count doesn't match value count at row 1<br />Error No: 1136<br />INSERT INTO oc_hello_world_1 (name , image, link, text)
+			VALUES(
+					'Запись в таблице hello_world_1',  
+					'\image\module_image\module_hello_world_image\module_hello_world_image.png',
+					'' 
+					'testText'
+			) in C:\OSPanel\domains\mobile-oc-1-5-5-1-2.loc\system\database\mysqliz.php on line 53

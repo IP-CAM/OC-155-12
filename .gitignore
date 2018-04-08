@@ -7,6 +7,3 @@
 *.iml
 out
 gen
-/system/cache/
-/system/logs/
-/system/logs/my_mego_log.log
