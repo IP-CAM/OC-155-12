@@ -45,13 +45,6 @@
 			`text` TEXT NOT NULL,
 			PRIMARY KEY(`id`)
 		)");
-			$this->db->query("INSERT INTO " . DB_PREFIX . "hello_world_1 (name , image, link, text)
-			VALUES(
-					'Запись в таблице hello_world_1',  
-					'\image\module_image\module_hello_world_image\module_hello_world_image.png',
-					'https://ocstore.com/', 
-					'testText'
-			)");
 
 			$query = $this->db->query("SELECT * FROM " . DB_PREFIX . "hello_world_1");
 
@@ -101,6 +94,17 @@
 			} else {
 				return $this->config->get('config_layout_information');
 			}
+		}
+
+		public function insert()
+		{
+			$this->db->query("INSERT INTO " . DB_PREFIX . "hello_world_1 (name , image, link, text)
+			VALUES(
+					'Запись в таблице hello_world_1',  
+					'\image\module_image\module_hello_world_image\module_hello_world_image.png',
+					'https://ocstore.com/', 
+					'testText'
+			)");
 		}
 	}
 

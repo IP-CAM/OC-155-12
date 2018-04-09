@@ -10,32 +10,39 @@
 			TODO: Реализовать код представления
 		-->
 		<p>код модуля</p>
-		<p><?= $text_module?></p>
-		<p><?= $text_success?></p>
+		<p><?= $text_module ?></p>
+		<p><?= $text_success ?></p>
 		<hr>
-		<p>
-			<?php
-				var_dump($temp);
-			?>
-		</p>
-		<hr>
-		<p>
-			<?php
-				var_dump($temp_info);
-			?>
-		</p>
-		<hr>
-		<p>
-			<?php
-				var_dump($hello_world);
-			?>
-		</p>
-<hr>
-		<p>
-			<?php
-				var_dump($hello_world_new);
-			?>
-		</p>
+		<div class="panel panel-info">
+			<!-- Default panel contents -->
+			<div class="panel-heading">Таблица oc_hello_world </div>
+			<div class="panel-body">
+				<p>Выводим все записи из таблицы oc_hello_world.</p>
+			</div>
+
+			<!-- Table -->
+			<table class="table">
+				<thead>
+				<tr>
+					<th>ID</th>
+					<th>NAME</th>
+					<th>FOTO</th>
+					<th>LINK</th>
+				</tr>
+				</thead>
+				<tbody>
+				<?php foreach ($hello_world as $hello): ?>
+					<tr>
+						<th><?= $hello['id'] ?></th>
+						<td><?= $hello['name'] ?></td>
+						<td><img src="<?= $hello['image'] ?>" alt="HTML5 Icon" width="128"></td>
+						<td><a href="<?= $hello['link'] ?>">Перейти</a></td>
+					</tr>
+				<?php endforeach; ?>
+				</tbody>
+				...
+			</table>
+		</div>
 
 	</div>
 </div>
